@@ -1,0 +1,11 @@
+{
+    "admin" :{
+        "userName" : "saleh",
+        "password" : "142536"
+    },
+    
+    "students" : {
+        "userName" : "iat",
+        "password" : "142536"
+    }
+}
